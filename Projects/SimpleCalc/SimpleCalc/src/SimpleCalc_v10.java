@@ -1,8 +1,5 @@
 
-import java.awt.BorderLayout;
-import java.awt.Color;
-import java.awt.FlowLayout;
-import java.awt.GridLayout;
+import java.awt.*;
 import java.awt.event.ActionListener;
 
 import javax.swing.JButton;
@@ -36,21 +33,24 @@ public class SimpleCalc_v10 extends JFrame {
     void showNorth() {
         JPanel p1 = new JPanel();
         JPanel p2 = new JPanel();
-        JPanel panel = new JPanel(new GridLayout(2, 0));
+        JPanel p3 = new JPanel();
+        JPanel panel = new JPanel(new GridLayout(1, 4));
 
-        t1 = new JTextField(10);
-        t2 = new JTextField(10);
+
+        t1 = new JTextField(5);
+        t2 = new JTextField(5);
         t2.setEnabled(false);
 
         cal = new JButton("계산");
+        cal.setPreferredSize(new Dimension(70, 30));
 
         p1.add(t1);
         p2.add(t2);
+        p3.add(cal);
 
         panel.add(p1);
         panel.add(p2);
-        panel.add(cal);
-
+        panel.add(p3);
 
         add(panel, BorderLayout.NORTH);
 
@@ -65,7 +65,8 @@ public class SimpleCalc_v10 extends JFrame {
                     t2.setText("" + result);
                     area.setText(radius + " * " + radius + " * 3.14 = " + result);
                 }
-            } else {
+            }
+            else {
                 t1.setText("");
                 t2.setText("");
                 area.setText("");

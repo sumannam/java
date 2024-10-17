@@ -39,7 +39,7 @@ public class SimpleCalc_v10 extends JFrame {
 
         t1 = new JTextField(5);
         t2 = new JTextField(5);
-        t2.setEnabled(false);
+        // t2.setEnabled(false);
 
         cal = new JButton("계산");
         cal.setPreferredSize(new Dimension(70, 30));
@@ -57,13 +57,12 @@ public class SimpleCalc_v10 extends JFrame {
         ActionListener listener1 = e -> {
             if (e.getSource() == cal) {
                 if (t1.getText().isEmpty())
-                    area.setText("반지름을 입력하세요!!!");
+                    area.setText("");
                 else {
-                    String s = t1.getText();
-                    double radius = Double.parseDouble(s);
-                    double result = radius * radius * 3.14;
-                    t2.setText("" + result);
-                    area.setText(radius + " * " + radius + " * 3.14 = " + result);
+                    int num1 = Integer.parseInt(t1.getText());
+                    int num2 = Integer.parseInt(t2.getText());
+                    int result = num1 + num2;
+                    area.setText("" + result);
                 }
             }
             else {

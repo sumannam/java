@@ -11,14 +11,15 @@ import javax.swing.JPanel;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
-public class SimpleCalc_v20 extends JFrame {
+public class SimpleCalc_v20 extends JFrame
+{
     JTextField t1, t2;
     JTextArea area;
     JButton cal, reset;
     JComboBox<String> cb;
 
-
-    SimpleCalc_v20() {
+    SimpleCalc_v20()
+    {
         setTitle("계산기");
 
         setLayout(new BorderLayout(10, 10));
@@ -31,7 +32,8 @@ public class SimpleCalc_v20 extends JFrame {
         setVisible(true);
     }
 
-    void showNorth() {
+    void showNorth()
+    {
         String[] operator = { "+", "-" };
 
         JPanel p1 = new JPanel();
@@ -40,10 +42,8 @@ public class SimpleCalc_v20 extends JFrame {
         JPanel p4 = new JPanel();
         JPanel panel = new JPanel(new GridLayout(1, 4));
 
-
         t1 = new JTextField(5);
         t2 = new JTextField(5);
-        // t2.setEnabled(false);
 
         cb = new JComboBox<String>(operator);
 
@@ -62,9 +62,11 @@ public class SimpleCalc_v20 extends JFrame {
 
         add(panel, BorderLayout.NORTH);
 
-        ActionListener listener1 = e -> {
-            if (e.getSource() == cal) {
-                if (t1.getText().isEmpty())
+        ActionListener listener1 = e ->
+        {
+            if (e.getSource() == cal)
+            {
+                if (t1.getText().isEmpty() || t2.getText().isEmpty())
                     area.setText("");
                 else {
                     //String item = cb.getSelectedItem().toString();
@@ -96,7 +98,8 @@ public class SimpleCalc_v20 extends JFrame {
         cal.addActionListener(listener1);
     }
 
-    void showCenter() {
+    void showCenter()
+    {
         JPanel panel = new JPanel();
 
         area = new JTextArea(30, 20);
@@ -109,12 +112,14 @@ public class SimpleCalc_v20 extends JFrame {
         add(panel, BorderLayout.CENTER);
     }
 
-    void showSouth() {
+    void showSouth()
+    {
         JPanel panel = new JPanel(new FlowLayout(FlowLayout.CENTER, 10, 10));
         add(panel, BorderLayout.SOUTH);
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         new SimpleCalc_v10();
     }
 }

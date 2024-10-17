@@ -120,6 +120,6 @@ public class SimpleCalc_v20 extends JFrame
 
     public static void main(String[] args)
     {
-        new SimpleCalc_v10();
+        new SimpleCalc_v20();
     }
 }

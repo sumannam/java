@@ -1,5 +1,6 @@
 
 import java.awt.*;
+import java.lang.Object;
 import java.awt.event.ActionListener;
 
 import javax.swing.JButton;
@@ -66,16 +67,29 @@ public class SimpleCalc_v20 extends JFrame {
                 if (t1.getText().isEmpty())
                     area.setText("");
                 else {
+                    //String item = cb.getSelectedItem().toString();
+                    String item = (String) cb.getSelectedItem();
+                    System.out.println(item);
+
                     int num1 = Integer.parseInt(t1.getText());
                     int num2 = Integer.parseInt(t2.getText());
-                    int result = num1 + num2;
+                    int result = 0;
+
+                    switch (item)
+                    {
+                        case "+":
+                            result = num1 + num2;
+                            break;
+                        case "-":
+                            result = num1 - num2;
+                            break;
+                        default:
+                            System.out.println("잘못된 연산자입니다.");
+                            break;
+                    }
+
                     area.setText("" + result);
                 }
-            }
-            else {
-                t1.setText("");
-                t2.setText("");
-                area.setText("");
             }
         };
 
@@ -96,15 +110,7 @@ public class SimpleCalc_v20 extends JFrame {
     }
 
     void showSouth() {
-        // String[] color = { "red", "blue" };
-
         JPanel panel = new JPanel(new FlowLayout(FlowLayout.CENTER, 10, 10));
-
-        // cb = new JComboBox<String>(color);
-        // reset = new JButton("리셋");
-
-        // panel.add(cb);
-        // panel.add(reset);
         add(panel, BorderLayout.SOUTH);
     }
 

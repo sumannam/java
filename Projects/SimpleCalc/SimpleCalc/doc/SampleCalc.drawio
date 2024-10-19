@@ -1,0 +1,45 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0" pages="2">
+  <diagram name="dev/simplecalc_v1" id="02HJ1_fmhUPYCQ9Wz8YD">
+    <mxGraphModel dx="1434" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="65ABzEAQStXnSKVx3wix-2" value="num1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="65ABzEAQStXnSKVx3wix-3" value="result" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="280" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="65ABzEAQStXnSKVx3wix-4" value="num2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="220" width="100" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="65ABzEAQStXnSKVx3wix-7" value="Primary" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="670" y="220" width="86" height="43" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cQ5CCQyOr_qcvvBs9IQr" name="dev/simplecalc_v2">
+    <mxGraphModel dx="1434" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P-HptxH6krIaA6vUrTeW-1" value="num1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P-HptxH6krIaA6vUrTeW-2" value="result" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P-HptxH6krIaA6vUrTeW-3" value="num2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="220" width="100" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P-HptxH6krIaA6vUrTeW-4" value="cal" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="220" width="86" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="P-HptxH6krIaA6vUrTeW-5" value="cb" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

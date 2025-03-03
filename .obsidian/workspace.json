@@ -162,11 +162,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +181,7 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "3b71cb62465b1d62",
+  "active": "20501145180cd5f8",
   "lastOpenFiles": [
     "성과창출도구/Github.md",
     "성과창출도구/Git.md",

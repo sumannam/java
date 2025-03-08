@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "2f81d09211fbebc3",
+    "id": "f72b990ae5b872a7",
     "type": "split",
     "children": [
       {
-        "id": "7e3db500e26e4730",
+        "id": "f6487c013677598e",
         "type": "tabs",
         "children": [
           {
-            "id": "623752450df5717b",
+            "id": "3b71cb62465b1d62",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e4a1682ee3672806",
+    "id": "ce760313416b9c08",
     "type": "split",
     "children": [
       {
-        "id": "970a2fdd42f76117",
+        "id": "555d75e2bfc5629a",
         "type": "tabs",
         "children": [
           {
-            "id": "faa1bfa922792e29",
+            "id": "1e9d78b57922a733",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,11 +44,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
-            "id": "fa0f5292f2ff5f3a",
+            "id": "9949ddb5f3c98f67",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,35 +61,35 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "검색"
             }
           },
           {
-            "id": "08f58a75af77510e",
+            "id": "971f27886b719f7b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "북마크"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 295.5
   },
   "right": {
-    "id": "19aeae8ef625cc21",
+    "id": "905f829bc4e2312d",
     "type": "split",
     "children": [
       {
-        "id": "6b529a99dc5f8172",
+        "id": "01e0247b8fa22c48",
         "type": "tabs",
         "children": [
           {
-            "id": "92df9498ba2d41f7",
+            "id": "292bb620ea85600e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "README 의 백링크"
             }
           },
           {
-            "id": "75ab4a317a40e600",
+            "id": "20501145180cd5f8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Utils/IntelliJ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "IntelliJ 의 나가는 링크"
             }
           },
           {
-            "id": "b449650b6fa2e2ec",
+            "id": "b8d64f1a29bed65c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,11 +133,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "태그"
             }
           },
           {
-            "id": "63ad5716080d7a92",
+            "id": "6788f50b88061e03",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -148,51 +148,77 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "README 의 개요"
+            }
+          },
+          {
+            "id": "9d4a77d96e0e2ab1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "github-sync:Sync with Remote": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "623752450df5717b",
+  "active": "3b71cb62465b1d62",
   "lastOpenFiles": [
-    "Lecture/Week_01/성과 창출 도구 설치.md",
-    "Utils/Figma.md",
-    "Utils/attachments/Pasted image 20250307134152.png",
-    "Utils/attachments/Pasted image 20250307134001.png",
-    "Utils/attachments",
-    "Utils/Markdown.md",
-    "Lecture/Week_01",
-    "Lecture",
-    "README.md",
+    "Utils/attachments/image.png",
     "Utils/IntelliJ.md",
-    "Untitled.md",
-    "Utils/Github.md",
+    "Notion/자바 IntelliJ IDEA.md",
+    "Utils/attachments/image 23.png",
+    "Utils/attachments/image 22.png",
+    "Utils/attachments/image 21.png",
+    "Utils/attachments/image 20.png",
+    "Utils/attachments/image 19.png",
+    "Utils/attachments/image 18.png",
+    "Utils/attachments/image 17.png",
+    "Utils/attachments/image 16.png",
+    "Utils/attachments/image 15.png",
+    "Utils/attachments/image 14.png",
+    "Notion/attachments",
+    "Notion",
+    "image 7.png.md",
+    "Lecture/Week_01/README.md",
+    "README.md",
+    "IntelliJ.md",
+    "Utils/Markdown.md",
     "Utils/Junit.md",
+    "Utils/Github.md",
+    "Utils/attachments",
+    "Utils/Figma.md",
     "Utils/Git.md",
     "Utils",
-    "attachments/Pasted image 20250303211432.png",
-    "attachments",
-    "2024/Projects/SimpleCalc/SimpleCalc/src/SimpleCalc_v20.java",
-    "2024/Projects/SimpleCalc/SimpleCalc/src/SimpleCalc_v10.java",
-    "2024/Projects/SimpleCalc/SimpleCalc/src/Main.java",
-    "2024/Projects/SimpleCalc/SimpleCalc/doc/SampleCalc_v1.0.drawio",
-    "2024/Projects/SimpleCalc/SimpleCalc/SimpleCalc.iml"
+    "Lecture/Week_01",
+    "Lecture",
+    "2024/Projects 1/SimpleCalc/SimpleCalc",
+    "2024/Projects 1/SimpleCalc",
+    "2024/Projects 1",
+    "2024/Example/Chapter08",
+    "성과창출도구/Github.md",
+    "성과창출도구/Git.md",
+    "성과창출도구/Figma.md",
+    "성과창출도구/마크다운.md",
+    "성과창출도구/Junit.md"
   ]
 }

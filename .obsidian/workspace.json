@@ -83,16 +83,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Mid-term project.md",
+                "file": "Project/Final-term Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mid-term project"
+              "title": "Final-term Project"
+            }
+          },
+          {
+            "id": "8a350e18cd5e4682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utils/Figma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Figma"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -252,22 +266,25 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "08bf5cd2d69bfe5b",
+  "active": "1e9d78b57922a733",
   "lastOpenFiles": [
-    "Project/Final-term Project.md",
-    "Project/Mid-term project.md",
+    "Utils/Git.md",
+    "Utils/Github.md",
+    "Utils/IntelliJ.md",
+    "Utils/Junit.md",
+    "Utils/Markdown.md",
+    "Utils/Obsidian.md",
     "Lecture/Week_02/README.md",
+    "Lecture/Week_02/discussion.md",
+    "Notice/04_class.md",
+    "Notice/03_class.md",
+    "Project/Final-term Project.md",
+    "Notice",
+    "Project/Mid-term project.md",
+    "Lecture/Week_01/README.md",
     "Project",
     "README.md",
-    "Lecture/Week_02/discussion.md",
-    "Utils/IntelliJ.md",
-    "Utils/Obsidian.md",
-    "Utils/Markdown.md",
-    "Utils/Junit.md",
-    "Utils/Github.md",
-    "Utils/Git.md",
     "Utils/Figma.md",
-    "Lecture/Week_01/README.md",
     "Utils/attachments/Pasted image 20250308171653.png",
     "Utils/무제",
     "Lecture/Week_02/무제.md",
@@ -290,7 +307,6 @@
     "Utils",
     "Lecture/Week_01",
     "Lecture",
-    "2024/Projects 1/SimpleCalc/SimpleCalc",
     "성과창출도구/Github.md",
     "성과창출도구/Git.md",
     "성과창출도구/Figma.md",

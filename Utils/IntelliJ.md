@@ -16,7 +16,9 @@
 # 설치
 
 1. 아래 URL를 접속한 후, 다운로드를 선택한다.
+		
         [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
+        
         ![](attachments/image.png)
            
       
@@ -28,7 +30,7 @@
     
 3. 다운로드 파일을 설치한다.
     - 설치 첫 화면
-       
+       ![](attachments/image%202.png)
         ![[attachments/image 2.png]]
      
     - 중간에 선택해야 할 화면

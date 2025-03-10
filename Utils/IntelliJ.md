@@ -20,32 +20,23 @@
         
     ![](attachments/Pasted%20image%2020250310133452.png)
 		
-	
-    
 2. 다운로드 exe를 선택한 후, 파일을 저장한다.
 		![](attachments/image%201.png)
 		 
-    
 3. 다운로드 파일을 설치한다.
     - 설치 첫 화면
 	    
        ![](attachments/image%202.png)
-
-     
+		
     - 중간에 선택해야 할 화면
         
 	    ![](attachments/image%203.png)
 	    ![](attachments/image%204.png)
     
-      
-    
 4. 바탕화면에 아래 아이콘이 생성되면 설치 성공이다.
 	
+	
 	  ![](attachments/image%205.png)
-    
-    
-
-  
 
 # 프로젝트 생성
 
@@ -62,14 +53,12 @@
         ![](attachments/image%207.png)
         ![](attachments/image%208.png)
     
-    
 2. `New Project`를 선택한다.
 	
 	![](attachments/image%208.png)
 		
-          
-    
 3. 아래와 같이 입력한다.
+		
 	![](attachments/image%209.png)
     
     - `Name` : 프로젝트의 이름을 입력하는 필드
@@ -77,13 +66,9 @@
     - `JDK`(Java Development Kit) : 프로젝트에서 사용할 자바 개발 키트 버전 선택
         - 개발 환경에 따라 다른 JDK 버전으로 추가 또는 변경 가능
     
-      
-    
 4. 아래와 같이 프로젝트가 생성된다.
-	    ![](attachments/image%2010.png)
+	![](attachments/image%2010.png)
     
-
-  
 ## 소스 코드
 
 ### 기초 코드 분석
@@ -132,8 +117,6 @@ for (int i = 1; i <= 5; i++) {
     - ▶️ 클릭
 		![](attachments/image%2011.png)
     
-      
-    
 2. 실행 결과를 확인한다.
 	    ![](attachments/image%2012.png)
     
@@ -154,16 +137,12 @@ public class Main {
 1. `…` → `Edit`를 선택한다.
 		![](attachments/image%2013.png)
     
-      
-    
 2. 아래와 같이 파라미터를 입력한 후, `Run`를 선택한다.
     ```Java
     a b "c d" e
     ```
 		
 	![](attachments/image%2014.png)
-    
-      
     
 3. 실행 결과를 확인한다.
 		
@@ -193,13 +172,9 @@ public class Main {
     
 	![](attachments/image%2018.png)
     
-
-
 3. 가입 후 메일 인증을 받는다.
 		
 	![](attachments/image%2019.png)
-    
-      
     
 4. 인증 받은 후 Student Pack Liense를 받는다(단, 라이센스는 1년에 한 번씩 갱신해야 한다).
     [https://account.jetbrains.com/licenses](https://account.jetbrains.com/licenses)

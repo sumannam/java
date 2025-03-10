@@ -18,33 +18,29 @@
 1. 아래 URL를 접속한 후, 다운로드를 선택한다.
 		
         [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
-        
         ![](attachments/image.png)
-           
-      
+        
     
 2. 다운로드 exe를 선택한 후, 파일을 저장한다.
-        ![[attachments/image 1.png]]
-    
-      
+		![](attachments/image%201.png)
+		 
     
 3. 다운로드 파일을 설치한다.
     - 설치 첫 화면
+	    
        ![](attachments/image%202.png)
-        ![[attachments/image 2.png]]
+
      
     - 중간에 선택해야 할 화면
         
-        ![[attachments/image 3.png]]
-        
-        ![[attachments/image 4.png]]
-        
+	    ![](attachments/image%203.png)
+	    ![](attachments/image%204.png)
     
       
     
 4. 바탕화면에 아래 아이콘이 생성되면 설치 성공이다.
+    ![](attachments/image%205.png)
     
-    ![[attachments/image 5.png]]
     
 
   
@@ -57,21 +53,21 @@
     
     - 최초 실행 시 Windows 보안 경고 화면이 나온다. `액세스 허용`을 선택한다.
         
-        ![[attachments/image 6.png]]
+        ![](attachments/image%206.png)
         
     - VSCode가 설치되어 있을 경우, 아래 화면이 나온다. `Skip Import`를 선택한다.
         
-        ![[attachments/image 7.png]]
+        ![](attachments/image%207.png)
         
          
     
 2. `New Project`를 선택한다.
-    ![[attachments/image 8.png]]
+	    ![](attachments/image%208.png)
     
       
     
 3. 아래와 같이 입력한다.
-    ![[attachments/image 9.png]]
+		![](attachments/image%209.png)
     
     - `Name` : 프로젝트의 이름을 입력하는 필드
     - `Location` : 프로젝트가 저장될 디렉토리 경로를 지정
@@ -81,7 +77,7 @@
       
     
 4. 아래와 같이 프로젝트가 생성된다.
-    ![[attachments/image 10.png]]
+	    ![](attachments/image%2010.png)
     
 
   
@@ -131,12 +127,12 @@ for (int i = 1; i <= 5; i++) {
     
     - `Shift` + `F10` 누르기
     - ▶️ 클릭
-    ![[attachments/image 11.png]]
+		![](attachments/image%2011.png)
     
       
     
 2. 실행 결과를 확인한다.
-    ![[attachments/image 12.png]]
+	    ![](attachments/image%2012.png)
     
 
 ### 소스 코드 응용: args 설정
@@ -153,7 +149,7 @@ public class Main {
   
 
 1. `…` → `Edit`를 선택한다.
-    ![[attachments/image 13.png]]
+		![](attachments/image%2013.png)
     
       
     
@@ -161,12 +157,13 @@ public class Main {
     ```Java
     a b "c d" e
     ```
-    ![[attachments/image 14.png]]
+		
+		![](attachments/image%2014.png)
     
       
     
 3. 실행 결과를 확인한다.
-    ![[attachments/image 15.png]]
+		![](attachments/image%2015.png)
     
 
 # JetBrains 가입
@@ -174,8 +171,8 @@ public class Main {
 ## 일반 계정 생성
 
 1. 아래 URL에 접속한 후 가입한다.
-    [https://account.jetbrains.com/login](https://account.jetbrains.com/login)
-    ![[attachments/image 16.png]]
+	    [https://account.jetbrains.com/login](https://account.jetbrains.com/login)
+	    ![](attachments/image%2016.png)
     
 
   
@@ -184,27 +181,30 @@ public class Main {
 
 1. 아래 URL에 접속한다.
     [https://www.jetbrains.com/ko-kr/community/education/#students](https://www.jetbrains.com/ko-kr/community/education/#students)
-    ![[attachments/image 17.png]]
+    
+	    ![](attachments/image%2017.png)
 
 2. 회원 가입을 위해 아래를 입력한다. 입력할 때 학교 이메일을 입력한다.
-    ![[attachments/image 18.png]]
+    
+	    ![](attachments/image%2018.png)
     
 
 
 3. 가입 후 메일 인증을 받는다.
-    ![[attachments/image 19.png]]
+		![](attachments/image%2019.png)
     
       
     
 4. 인증 받은 후 Student Pack Liense를 받는다(단, 라이센스는 1년에 한 번씩 갱신해야 한다).
     [https://account.jetbrains.com/licenses](https://account.jetbrains.com/licenses)
-    ![[attachments/image 20.png]]
+	    ![](attachments/image%2020.png)
 
 5. IntelliJ에서 설정 버튼을 누른 후 Manage License를 선택한다.
-    ![[attachments/image 21.png]]
+	    ![](attachments/image%2021.png)
     
 6. JetBrains의 계정을 입력한 후 라이센스를 구독한다.
-    ![[attachments/image 22.png]]
+	    ![](attachments/image%2022.png)
     
-    ![[attachments/image 23.png]]
+	    ![](attachments/image%2023.png)
+	
     

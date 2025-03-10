@@ -16,10 +16,11 @@
 # 설치
 
 1. 아래 URL를 접속한 후, 다운로드를 선택한다.
-		
-        [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
-        ![](attachments/image.png)
+		[https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
         
+    ![](attachments/Pasted%20image%2020250310133452.png)
+		
+	
     
 2. 다운로드 exe를 선택한 후, 파일을 저장한다.
 		![](attachments/image%201.png)
@@ -62,15 +63,13 @@
     
     
 2. `New Project`를 선택한다.
-		
-	    ![](attachments/image%208.png)
+	![](attachments/image%208.png)
 		
     
       
     
 3. 아래와 같이 입력한다.
-		
-		![](attachments/image%209.png)
+	![](attachments/image%209.png)
     
     - `Name` : 프로젝트의 이름을 입력하는 필드
     - `Location` : 프로젝트가 저장될 디렉토리 경로를 지정

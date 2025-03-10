@@ -40,7 +40,8 @@
       
     
 4. 바탕화면에 아래 아이콘이 생성되면 설치 성공이다.
-		  ![](attachments/image%205.png)
+	
+	  ![](attachments/image%205.png)
     
     
 

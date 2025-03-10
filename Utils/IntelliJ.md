@@ -17,8 +17,8 @@
 
 1. 아래 URL를 접속한 후, 다운로드를 선택한다.
         [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
-        ![[attachments/image.png]]
-	    
+        ![](attachments/image.png)
+           
       
     
 2. 다운로드 exe를 선택한 후, 파일을 저장한다.

@@ -160,12 +160,12 @@ public class Main {
     a b "c d" e
     ```
 		
-		![](attachments/image%2014.png)
+	![](attachments/image%2014.png)
     
       
     
 3. 실행 결과를 확인한다.
-		![](attachments/image%2015.png)
+	![](attachments/image%2015.png)
     
 
 # JetBrains 가입
@@ -173,8 +173,8 @@ public class Main {
 ## 일반 계정 생성
 
 1. 아래 URL에 접속한 후 가입한다.
-	    [https://account.jetbrains.com/login](https://account.jetbrains.com/login)
-	    ![](attachments/image%2016.png)
+	[https://account.jetbrains.com/login](https://account.jetbrains.com/login)
+	![](attachments/image%2016.png)
     
 
   
@@ -184,11 +184,11 @@ public class Main {
 1. 아래 URL에 접속한다.
     [https://www.jetbrains.com/ko-kr/community/education/#students](https://www.jetbrains.com/ko-kr/community/education/#students)
     
-	    ![](attachments/image%2017.png)
+	![](attachments/image%2017.png)
 
 2. 회원 가입을 위해 아래를 입력한다. 입력할 때 학교 이메일을 입력한다.
     
-	    ![](attachments/image%2018.png)
+	![](attachments/image%2018.png)
     
 
 
@@ -205,8 +205,6 @@ public class Main {
 	    ![](attachments/image%2021.png)
     
 6. JetBrains의 계정을 입력한 후 라이센스를 구독한다.
-	    ![](attachments/image%2022.png)
-    
-	    ![](attachments/image%2023.png)
 	
-    
+	![](attachments/image%2022.png)
+	![](attachments/Pasted%20image%2020250310134024.png)

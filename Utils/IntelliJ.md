@@ -58,12 +58,13 @@
     - VSCode가 설치되어 있을 경우, 아래 화면이 나온다. `Skip Import`를 선택한다.
         
         ![](attachments/image%207.png)
-        
-         
+        ![](attachments/image%208.png)
+    
     
 2. `New Project`를 선택한다.
 		
 	    ![](attachments/image%208.png)
+		
     
       
     

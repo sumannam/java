@@ -165,6 +165,7 @@ public class Main {
       
     
 3. 실행 결과를 확인한다.
+		
 	![](attachments/image%2015.png)
     
 
@@ -174,6 +175,7 @@ public class Main {
 
 1. 아래 URL에 접속한 후 가입한다.
 	[https://account.jetbrains.com/login](https://account.jetbrains.com/login)
+	
 	![](attachments/image%2016.png)
     
 
@@ -193,16 +195,18 @@ public class Main {
 
 
 3. 가입 후 메일 인증을 받는다.
-		![](attachments/image%2019.png)
+		
+	![](attachments/image%2019.png)
     
       
     
 4. 인증 받은 후 Student Pack Liense를 받는다(단, 라이센스는 1년에 한 번씩 갱신해야 한다).
     [https://account.jetbrains.com/licenses](https://account.jetbrains.com/licenses)
-	    ![](attachments/image%2020.png)
+	![](attachments/image%2020.png)
 
 5. IntelliJ에서 설정 버튼을 누른 후 Manage License를 선택한다.
-	    ![](attachments/image%2021.png)
+	
+	![](attachments/image%2021.png)
     
 6. JetBrains의 계정을 입력한 후 라이센스를 구독한다.
 	

@@ -39,7 +39,7 @@
       
     
 4. 바탕화면에 아래 아이콘이 생성되면 설치 성공이다.
-    ![](attachments/image%205.png)
+		  ![](attachments/image%205.png)
     
     
 
@@ -62,11 +62,13 @@
          
     
 2. `New Project`를 선택한다.
+		
 	    ![](attachments/image%208.png)
     
       
     
 3. 아래와 같이 입력한다.
+		
 		![](attachments/image%209.png)
     
     - `Name` : 프로젝트의 이름을 입력하는 필드

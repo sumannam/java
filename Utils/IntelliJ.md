@@ -66,11 +66,9 @@
 	
 	![](attachments/image%208.png)
 		
-    
-      
+          
     
 3. 아래와 같이 입력한다.
-	
 	![](attachments/image%209.png)
     
     - `Name` : 프로젝트의 이름을 입력하는 필드

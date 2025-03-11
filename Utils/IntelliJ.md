@@ -154,6 +154,7 @@ public class Main {
 ## 일반 계정 생성
 
 1. 아래 URL에 접속한 후 가입한다.
+		
 	[https://account.jetbrains.com/login](https://account.jetbrains.com/login)
 	
 	![](attachments/image%2016.png)

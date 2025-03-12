@@ -21,7 +21,7 @@ Git은 분산 버전 관리 시스템(Distributed Version Control System, DVCS)�
 ### Git 사용 비유
 
 - 2025년 3월 9일 기준
-![](attachments/chart.png)
+	![](attachments/Pasted%20image%2020250312222005.png)
 	출처 : https://openhub.net/repositories/compare
 
 - Git이 나오기 전에는 [SVN](SVN.md)을 사용함

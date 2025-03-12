@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utils/Git Extensions.md",
+                "file": "Utils/Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git Extensions"
+              "title": "Git"
             }
           },
           {
@@ -254,8 +254,10 @@
   },
   "active": "cfb05b415ab02900",
   "lastOpenFiles": [
-    "Utils/SVN.md",
+    "Utils/attachments/Pasted image 20250312220144.png",
+    "Utils/attachments/Pasted image 20250312220132.png",
     "Utils/Git Extensions.md",
+    "Utils/SVN.md",
     "Utils/attachments/Pasted image 20250312215938.png",
     "Utils/Kdiff3.md",
     "Utils/attachments/Pasted image 20250312215802.png",
@@ -268,7 +270,6 @@
     "Utils/attachments/Pasted image 20250312215518.png",
     "Utils/attachments/Pasted image 20250312215452.png",
     "Utils/attachments/Pasted image 20250312215435.png",
-    "Utils/attachments/Pasted image 20250312215418.png",
     "Utils/Git.md",
     "Utils/Figma.md",
     "Lecture/Week_02/README.md",
@@ -298,7 +299,6 @@
     "Lecture",
     "성과창출도구/Github.md",
     "성과창출도구/Git.md",
-    "성과창출도구/Figma.md",
-    "성과창출도구/마크다운.md"
+    "성과창출도구/Figma.md"
   ]
 }

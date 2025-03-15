@@ -6,12 +6,10 @@
 # IntelliJ 설치
 [IntelliJ](../../Utils/IntelliJ.md)
 
-# 토론 주제
+
+# (토론) 프로그램이란?
+
 [discussion](discussion.md)
-
-
-# 프로그램이란?
-
 
 
 # 데이터 관리의 역사: 돌판에서 프로그램까지

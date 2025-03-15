@@ -24,7 +24,8 @@
 
 # 설정
 1. Git Extension를 실행하면 아래 화면이 보인다.
-	![](attachments/Pasted%20image%2020250309070701.png)
+	![](attachments/Pasted%20image%2020250315192020.png)
 		
 2. User name과 User email를 입력한다.
-	![](attachments/Pasted%20image%2020250309070734.png)
+	![](attachments/Pasted%20image%2020250315192028.png)
+	

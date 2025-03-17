@@ -26,6 +26,10 @@
 1. Git Extension를 실행하면 아래 화면이 보인다.
 	![](attachments/Pasted%20image%2020250315192020.png)
 		
+> [!NOTE] 참고
+> mergetool과 difftool에 빨간색 이 보인다면, [Kdiff3](Kdiff3.md)설치한 후 아래 2번 화면과 같이 [Kdiff3](Kdiff3.md)를 선택하면 된다.
+		
+		
 2. User name과 User email를 입력한다.
 	![](attachments/Pasted%20image%2020250315192028.png)
 	

@@ -2,5 +2,7 @@
   "table-editor-obsidian",
   "editing-toolbar",
   "obsidian-image-toolkit",
-  "github-sync"
+  "github-sync",
+  "mermaid-tools",
+  "drawio-obsidian"
 ]

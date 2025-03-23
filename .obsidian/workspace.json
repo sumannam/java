@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "9ccc88f06f616857",
+        "id": "f6487c013677598e",
         "type": "tabs",
         "children": [
           {
-            "id": "45665d92c84f4ce0",
+            "id": "8a350e18cd5e4682",
             "type": "leaf",
             "state": {
-<<<<<<< HEAD
               "type": "markdown",
               "state": {
                 "file": "Lecture/Week_03/practice/practice1.md",
@@ -28,21 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/Week_04/practice/Project_4-1.md",
+                "file": "Lecture/Week_04/practice/Practice_4-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project_4-1"
-=======
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
->>>>>>> a5b70588261ea362020600610469054b7f85e3fb
+              "title": "Practice_4-2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -99,11 +93,7 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
     "width": 292.5
-=======
-    "width": 295.5
->>>>>>> a5b70588261ea362020600610469054b7f85e3fb
   },
   "right": {
     "id": "905f829bc4e2312d",
@@ -185,9 +175,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "0161149b8ced720e",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -196,24 +196,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "1e9d78b57922a733",
+  "active": "69101445de8d6a40",
   "lastOpenFiles": [
-<<<<<<< HEAD
+    "Lecture/Week_04/practice/Project_4-1.md",
     "Lecture/Week_04/practice/Practice_4-2.md",
     "Lecture/Week_04/practice/Practice_4-1.md",
     "Notice/실습문제 제출.md",
-    "Lecture/Week_04/practice/Project_4-1.md",
     "Lecture/Week_04/practice/Practice_4-3.md",
     "Lecture/Java/3장_자료형 변환 방법.md",
     "Lecture/Java/2장_데이터 저장 방법.md",
@@ -251,57 +251,11 @@
     "Lecture/Week_03/attachments",
     "Untitled Diagram.svg",
     "Lecture/Week_03",
-=======
-    "Utils/SVN.md",
-    "Utils/Git Extensions.md",
-    "Utils/Git.md",
-    "Utils/Github.md",
-    "Utils/Kdiff3.md",
-    "Lecture/Week_03/README.md",
-    "Utils/attachments/Pasted image 20250315192028.png",
-    "Utils/attachments/Pasted image 20250315192020.png",
->>>>>>> a5b70588261ea362020600610469054b7f85e3fb
     "Utils/attachments/Pasted image 20250312222005.png",
     "Utils/attachments/Pasted image 20250312220144.png",
     "Utils/attachments/Pasted image 20250312220132.png",
     "Utils/attachments/Pasted image 20250312215938.png",
-<<<<<<< HEAD
     "Utils/무제",
     "Notice"
-=======
-    "Utils/attachments/Pasted image 20250312215802.png",
-    "Utils/attachments/Pasted image 20250312215725.png",
-    "Utils/attachments/Pasted image 20250312215640.png",
-    "Utils/attachments/Pasted image 20250312215559.png",
-    "Lecture/Week_03/practice/practice2.md",
-    "Lecture/Week_03/practice/practice1.md",
-    "Lecture/Week_03/practice",
-    "Lecture/Week_03/attachments",
-    "Lecture/Week_03",
-    "Lecture/Java/5장_연산하는 방법.md",
-    "Lecture/Java/attachments",
-    "Lecture/Java/3장_자료형 변환 방법.md",
-    "Lecture/Java/4장 프로그램 입력받는 방법.md",
-    "Lecture/Java/2장_데이터 저장 방법.md",
-    "Lecture/Java/1장_자바 프로그램 구성 요소.md",
-    "Lecture/Java",
-    "Utils/IntelliJ.md",
-    "Lecture/Week_02/README.md",
-    "Project/Mid-term project.md",
-    "Project/Final-term Project.md",
-    "Lecture/Week_02/discussion.md",
-    "Notice/03_class.md",
-    "Lecture/Week_01/README.md",
-    "Utils/Figma.md",
-    "Utils/Junit.md",
-    "Utils/Markdown.md",
-    "Utils/Obsidian.md",
-    "Notice/04_class.md",
-    "Notice",
-    "Project",
-    "Utils/무제",
-    "Lecture/Week_02",
-    "Notion/attachments"
->>>>>>> a5b70588261ea362020600610469054b7f85e3fb
   ]
 }

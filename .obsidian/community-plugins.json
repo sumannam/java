@@ -4,5 +4,6 @@
   "obsidian-image-toolkit",
   "github-sync",
   "mermaid-tools",
-  "drawio-obsidian"
+  "drawio-obsidian",
+  "oz-clear-unused-images"
 ]

@@ -20,7 +20,7 @@ public class TypeCastingCalculator {
 }
 ```
 
-# [실습문제 제출](../../Notice/실습문제%20제출.md)
+# [실습문제 제출](../../../Notice/실습문제%20제출.md)
 
 - 이미지 : IntelliJ에서 실행결과 캡쳐화면 제출
 - 비고 : 위 1-5번의 결과에 대한 이유 작성

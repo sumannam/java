@@ -33,3 +33,11 @@
 2. User name과 User email를 입력한다.
 	![](attachments/Pasted%20image%2020250315192028.png)
 	
+
+# [Github](Github.md) 계정 로그아웃
+
+1. Windows `시작`에서 --> `자격 증명 관리자`를 실행한 후 `Windows 자격 증명`을 선택한다.
+	![](attachments/Pasted%20image%2020250327142759.png)
+		
+2. 제거 버튼을 선택한다.
+![](attachments/Pasted%20image%2020250327142943.png)

@@ -3,7 +3,7 @@
 
 - 아래 소스 코드를 통해 형변환을 실행한 후 정답 이미지와 그 이유를 각각 작성하시오.
 
-```
+```java
 public class TypeCastingCalculator {
     public static void main(String[] args) {
         // 주어진 값들

@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "905f829bc4e2312d",
@@ -181,12 +182,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "oz-clear-unused-images:Clear Unused Images": false
@@ -194,29 +195,29 @@
   },
   "active": "8a350e18cd5e4682",
   "lastOpenFiles": [
-    "Lecture/Week_05/practice/Practice_5-2.md",
     "Lecture/Week_05/practice/Practice_5-1.md",
-    "Lecture/Week_04/practice/Practice_4-3.md",
-    "Lecture/Week_05/practice",
-    "Lecture/Week_05/Week_05.md",
-    "Lecture/Week_05/Project_5.md",
-    "Lecture/Week_04/Week_04.md",
+    "Lecture/Week_05/practice/Practice_5-2.md",
     "Lecture/Java/4장 프로그램 입력받는 방법.md",
+    "Lecture/Java/3장_자료형 변환 방법.md",
+    "Lecture/Java/2장_데이터 저장 방법.md",
+    "Lecture/Java/1장_자바 프로그램 구성 요소.md",
+    "Lecture/Week_05/Project_5.md",
+    "Lecture/Week_05/Week_05.md",
+    "Lecture/Week_04/practice/Practice_4-2.md",
+    "Lecture/Week_04/practice/Practice_4-3.md",
+    "Lecture/Java/5장_연산하는 방법.md",
+    "Lecture/Week_05/practice",
+    "Lecture/Week_04/Week_04.md",
     "Lecture/Week_05",
     "Utils/IntelliJ.md",
-    "Lecture/Java/3장_자료형 변환 방법.md",
     "Lecture/Java/attachments/Pasted image 20250328203219.png",
     "Lecture/Java/attachments/Pasted image 20250328203204.png",
-    "Lecture/Java/2장_데이터 저장 방법.md",
     "Utils/Git Extensions.md",
     "Utils/Github.md",
     "Utils/attachments/Pasted image 20250327142943.png",
     "Utils/attachments/Pasted image 20250327142759.png",
     "Notice/실습문제 제출.md",
-    "Lecture/Week_04/practice/Practice_4-2.md",
-    "Lecture/Java/1장_자바 프로그램 구성 요소.md",
     "Lecture/Week_04/practice/Practice_4-1.md",
-    "Lecture/Java/5장_연산하는 방법.md",
     "Utils/Obsidian.md",
     "Lecture/Week_03/Week_03.md",
     "Lecture/Week_02/Week_02.md",

@@ -5,4 +5,6 @@
 
 # 프로젝트 수행
 
+- [Practice_5-1](practice/Practice_5-1.md) (15분)
+- [Practice_5-2](practice/Practice_5-2.md) (5분)
 - [Project_5](Project_5.md)

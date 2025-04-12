@@ -3,6 +3,7 @@
 - 청주대 학생이 필요한 프로그램 기획
 	- 기획한 내용은 [Final-term Project](Final-term%20Project.md)에서 개발한다.
 	- 기획 내용이 변경되어도 된다.
+- 2025년 4월 25일까지 제출한다.
 
 # 산출물
 
@@ -28,3 +29,16 @@
 	
 # 제출
 
+## 자바3
+
+- 제출
+	- https://forms.gle/Sgj8eAELm1zSgJrD6
+- 제출 확인
+	- https://docs.google.com/spreadsheets/d/1rjOQAx1Q0s-y4Su9p6XefEvaHYCJMkGFY8xz7kvfUt0/edit?usp=sharing
+
+## 자바4
+
+- 제출
+	- https://forms.gle/rWVZu2w89bVyaUNy9
+- 제출 확인
+	- https://docs.google.com/spreadsheets/d/1iWpx4kBsgFvvvRdlIxyGls92cbq_xSXE1mexXqgXMTk/edit?usp=sharing

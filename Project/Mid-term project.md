@@ -6,19 +6,25 @@
 
 # 산출물
 
-- Github Repository
-	- README
-		- 제목
-			- 프로그램 설명(3줄 요약)
-			- 사용자 정의
-		- 필요성
-			- 사용자가 이 프로그램을 사용해야 하는 이유는?
-		- 개발 방법
-			- 전체 동작 과정
-			- 동작 과정 설명
-		- 개발 프로그램의 이점
-			- 사용자는 누구인가?
-			- 그 사용자가 얻을 수 있는 이점은?
-- README 파일 PDF 파일
-	- [Obsidian](../Utils/Obsidian.md)에서 PDF로 내보내기 사용
-		![](attachments/Pasted%20image%2020250405164022.png)
+## (산출물1) Github Repository URL
+
+- README
+	- 제목
+		- 프로그램 설명(3줄 요약)
+		- 사용자 정의
+	- 필요성
+		- 사용자가 이 프로그램을 사용해야 하는 이유는?
+	- 개발 방법
+		- 전체 동작 과정
+		- 동작 과정 설명
+	- 개발 프로그램의 이점
+		- 사용자는 누구인가?
+		- 그 사용자가 얻을 수 있는 이점은?
+
+### (산출물2) README 파일 PDF 파일
+
+- [Obsidian](../Utils/Obsidian.md)에서 PDF로 내보내기 사용
+	![](attachments/Pasted%20image%2020250405164022.png)
+	
+# 제출
+

@@ -4,7 +4,3 @@
 	- [Practice_9-2](practice/Practice_9-2.md)
 	- [Practice_9-3](practice/Practice_9-3.md)
 
-
-> [!NOTE] 실습문제
-> [Practice_9-1](practice/Practice_9-1.md) : 수의 범위 확인하는 프로그램 개발
-
